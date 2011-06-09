@@ -3,8 +3,8 @@
 Plugin Name: Twitter Expander
 Plugin URI: http://www.maechler.me
 Description: Expand your Twitter-Name @something in your Posting with Twitterlink http://twitter.com/something
-Version: 1.0
-Author: Eric-Oliver Mächler
+Version: 1.1
+Author: Eric-Oliver M&auml;chler
 Author URI: http://www.maechler.me
 */
 
