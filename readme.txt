@@ -1,4 +1,4 @@
-=== Feed Plus ===
+=== Twitter Expander ===
   Contributors: Eric-Oliver M&auml;chler v/o Annubis
   Donate link: http://www.maechler.me
   Tags: twitter, name, nick, replacer, expander, link
