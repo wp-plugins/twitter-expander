@@ -1,11 +1,11 @@
 === Twitter-Expander ===
-  Contributors: Eric-Oliver M&auml;chler v/o Annubis
+  Contributors: Eric-Oliver M&auml;chler
   Donate link: http://www.maechler.me
   Tags: twitter, name, nick, replacer, expander, link
-  Version: 1.1
+  Version: 2.0
   Requires at least: 2.7+
-  Tested up to: 3.1
-  Stable tag: 1.0
+  Tested up to: 3.3
+  Stable tag: 2.0
 
 == Description ==
   Expand all of your Twitternames @name into a Posting with the correct Link http://twitter.com/name
@@ -38,3 +38,6 @@ Weitere Informationen über das Plugin findet man hier: www.maechler.me
 == Changelog ==
  = v1.0 (06/06/2011) =
   * first releasing
+  
+ = v2.0 (10/04/2012) =
+  * Update Plugin with target link
